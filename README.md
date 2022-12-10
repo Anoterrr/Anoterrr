@@ -1,3 +1,4 @@
+<p align="center">Olá, sou apenas um cara apaixonado por código, aliás meu nome é Gustavo prazer em te conhecer!</p>
 <div align="center">
   <a href="https://github.com/anoterrr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anoterrr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
