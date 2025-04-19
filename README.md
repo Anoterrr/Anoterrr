@@ -44,9 +44,8 @@ Check out my pinned repositories below! From streaming real-time analytics to da
 ## 📈 GitHub Stats That Prove I Actually Code
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anoterrr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-![My GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anoterrr&layout=compact&langs_count=7&theme=tokyonight)
 
-![Snake animation](https://github.com/Anoterrr/Anoterrr/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://anoterrr.github.io/Anoterrr/github-contribution-grid-snake.svg)
 
 ## 📫 Connect With Me
 
