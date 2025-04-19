@@ -25,12 +25,11 @@ def my_life(coffee):
 I speak fluent:
 
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Python/Python.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/SQL/SQL.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/SQL/SQL-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
@@ -54,7 +53,7 @@ Check out my pinned repositories below! From streaming real-time analytics to da
 
 ## 📈 GitHub Stats That Prove I Actually Code
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anoterrr&show_icons=true&theme=radical)
 
 ## 🔮 The Future is Data-Driven
 
@@ -75,7 +74,7 @@ I'm currently exploring:
 
 Let's talk about data, pipelines, or why Redis is actually a fascinating topic for first dates:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourLinkedIn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo--alencar)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YourTwitter)
 
 ---
@@ -90,4 +89,4 @@ Let's talk about data, pipelines, or why Redis is actually a fascinating topic f
   
   ##
 
-![Snake animation](https://github.com/Anoterrr/Anoterrr/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Anoterrr/blob/output/github-contribution-grid-snake.svg)
