@@ -1,4 +1,4 @@
-# 👋 Welcome to my Data Engineering Playground!
+# 👋 Welcome to my Playground!
 
 > *"In God we trust. All others must bring data."* — W. Edwards Deming
 
@@ -22,23 +22,13 @@ def my_life(coffee):
 
 ## 🛠️ Tech Stack & Tools
 
-I speak fluent:
-
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/SQL/SQL-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="postgresql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Spark" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Kubernetes" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg">
 </div>
-
-- **Languages**: Python, SQL, Scala, and enough Bash to be dangerous
-- **Frameworks**: Apache Spark, Airflow, Kafka, dbt
-- **Databases**: PostgreSQL, MongoDB, Snowflake, BigQuery
-- **Cloud**: AWS, GCP, Azure (I'm cloud-agnostic, like a good data nomad)
-- **Container Orchestration**: Docker, Kubernetes (because manually deploying is so 2010)
-- **CI/CD**: GitHub Actions, Jenkins (automation is not just a luxury, it's a lifestyle)
 
 ## 📊 My Data Philosophy
 
@@ -53,40 +43,15 @@ Check out my pinned repositories below! From streaming real-time analytics to da
 
 ## 📈 GitHub Stats That Prove I Actually Code
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anoterrr&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anoterrr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![My GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anoterrr&layout=compact&langs_count=7&theme=tokyonight)
 
-## 🔮 The Future is Data-Driven
-
-I'm currently exploring:
-- Building MLOps pipelines that don't require a PhD to maintain
-- Implementing Lambda and Kappa architectures (and explaining the difference at parties)
-- Finding the perfect balance between data governance and actually getting things done
-- Discovering if it's possible to explain what I do to my grandparents
-
-## 🎯 Fun Facts
-
-- I can explain dimensional modeling using only Star Wars analogies
-- I've written a query so complex it made my database apologize
-- I once debugged a pipeline issue while hiking (the solution came to me at the summit)
-- I believe "Have you tried turning it off and on again?" applies to databases too
+![Snake animation](https://github.com/Anoterrr/Anoterrr/blob/output/github-contribution-grid-snake.svg)
 
 ## 📫 Connect With Me
 
 Let's talk about data, pipelines, or why Redis is actually a fascinating topic for first dates:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo--alencar)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YourTwitter)
 
 ---
-
-> *"The data may be big, but my pipeline completion time is small."*
-
-<div align="center">
-  <a href="https://github.com/anoterrr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anoterrr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoterrr&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-  
-  ##
-
-![Snake animation](https://github.com/Anoterrr/blob/output/github-contribution-grid-snake.svg)
