@@ -4,7 +4,7 @@
 
 ## 🔍 Who Am I?
 
-I'm a data engineer who believes that ETL should stand for "Extremely Terrific Lifestyle" rather than just Extract, Transform, Load. When I'm not wrangling unruly datasets into submission, you can find me explaining to my friends why database normalization is actually fascinating conversation material at dinner parties.
+I am a Data Engineering focused on building scalable, automated, and secure data architectures. Currently developing the **"Data Gatekeeper"** project, a specialized pipeline within a **Data Lakehouse** architecture.
 
 ## 💾 What I Do
 
@@ -37,19 +37,13 @@ def my_life(coffee):
 3. **Documentation is crucial** - Future me always thanks past me for this
 4. **Optimization matters** - Both for queries and coffee brewing methods
 
-## 🚀 Projects That Might Impress You
-
-Check out my pinned repositories below! From streaming real-time analytics to data warehouse implementations that would make Kimball proud, I've built systems that turn chaotic data into actionable insights.
-
-## 📈 GitHub Stats That Prove I Actually Code
+## 📈 GitHub Stats
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anoterrr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
 ![Snake animation](https://anoterrr.github.io/Anoterrr/github-contribution-grid-snake.svg)
 
 ## 📫 Connect With Me
-
-Let's talk about data, pipelines, or why Redis is actually a fascinating topic for first dates:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo--alencar)
 
