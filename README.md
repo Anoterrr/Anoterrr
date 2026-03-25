@@ -37,12 +37,6 @@ def my_life(coffee):
 3. **Documentation is crucial** - Future me always thanks past me for this
 4. **Optimization matters** - Both for queries and coffee brewing methods
 
-## 📈 GitHub Stats
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anoterrr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
-![Snake animation](https://anoterrr.github.io/Anoterrr/github-contribution-grid-snake.svg)
-
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo--alencar)
