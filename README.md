@@ -25,7 +25,7 @@ Data Engineer focused on reliable, scalable pipelines — from ingestion to serv
 
 **Open source**
 
-→ [`vscode-zen`](https://github.com/anoter/vscode-zen) — minimal VSCode setup for Rust & Python
+→ [`vscode-zen`](https://github.com/anoterrr/vscode-zen) — minimal VSCode setup for Rust & Python
 
 → [`rust-donut`](https://github.com/Anoterrr/rust-donut) — Rust-Donut: Fixed-Point 3D Rendering
 
