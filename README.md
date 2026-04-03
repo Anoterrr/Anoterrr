@@ -8,8 +8,8 @@ Data Engineer focused on reliable, scalable pipelines — from ingestion to serv
 
 | Layer | Tools |
 |---|---|
-| Ingestion & Streaming | Kafka, Airflow |
-| Processing | Python, Spark, SQL |
+| Ingestion & Streaming | Airflow |
+| Processing | Python, Spark, SQL, PySpark|
 | Infrastructure | Docker, Kubernetes, Cloud (AWS/GCP) |
 | Systems & Tooling | Rust |
 
@@ -26,6 +26,7 @@ Data Engineer focused on reliable, scalable pipelines — from ingestion to serv
 **Open source**
 
 → [`vscode-zen`](https://github.com/anoter/vscode-zen) — minimal VSCode setup for Rust & Python
+
 → [`rust-donut`](https://github.com/Anoterrr/rust-donut) — Rust-Donut: Fixed-Point 3D Rendering
 
 ---
