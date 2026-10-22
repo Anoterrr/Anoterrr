@@ -30,7 +30,7 @@ The classic spinning `donut.c`, ported to Rust with integer math only. No floats
 
 ### Off the clock
 
-Guitar · games, with a channel on the way · Japanese
+Guitar · games · Japanese
 
 <br>
 
