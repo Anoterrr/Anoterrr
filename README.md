@@ -1,34 +1,37 @@
-# Anoter
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/pipeline-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/pipeline-light.svg">
+  <img alt="Records flow from landing through bronze, silver and gold. One fails a quality gate and drops into quarantine instead of moving on." src="assets/pipeline-light.svg" width="100%">
+</picture>
 
-Data Engineer focused on reliable, scalable pipelines — from ingestion to serving.
+**Data engineer in São Paulo.** I build pipelines that refuse bad data before it moves, like the drawing above, and I like systems I can rebuild from a single repo.
 
----
+```text
+$ cat now.txt
+building   PureFlow, a lakehouse with a quality gate between every layer
+learning   Japanese, one kanji at a time
+playing    guitar through a neural amp model, and games I'll soon be recording
+```
 
-**What I work with**
+### Selected work
 
-| Layer | Tools |
-|---|---|
-| Ingestion & Streaming | Airflow |
-| Processing | Python, Spark, SQL, PySpark|
-| Infrastructure | Docker, Kubernetes, Cloud (AWS/GCP) |
-| Systems & Tooling | Rust |
+**[PureFlow](https://github.com/Anoterrr/PureFlow)**\
+Open-source lakehouse, Delta Lake in every layer. dbt on DuckDB, orchestrated by Dagster, with Great Expectations gates that keep the next layer from building on data that failed. Tests fail the build if the gates are wired wrong. My capstone, and the project I'm proudest of.
 
----
+**[zen-runbook](https://github.com/Anoterrr/zen-runbook)**\
+How I set up a machine, written down. Every tool has a reason, and a read-only audit checks the machine against the repo.
 
-**What I've built**
+**[rust-donut](https://github.com/Anoterrr/rust-donut)**\
+The classic spinning `donut.c`, ported to Rust with integer math only. No floats, just bit shifts.
 
-- Streaming pipelines processing 100GB/day with sub-second latency
-- Orchestrated workflows across 15 dependent jobs with zero-downtime deploys
-- Reduced pipeline failure rate by 50% through observability and alerting
+### Toolbox
 
----
+`Python` `SQL` `dbt` `Dagster` `Airflow` `Spark` `DuckDB` `Delta Lake` `Great Expectations` `Kubernetes` `Docker` `Rust`
 
-**Open source**
+### Off the clock
 
-→ [`zen-dots`](https://github.com/anoterrr/zen-dots) — minimal VSCode setup for Rust & Python
+Guitar · games, with a channel on the way · Japanese
 
-→ [`rust-donut`](https://github.com/Anoterrr/rust-donut) — Rust-Donut: Fixed-Point 3D Rendering
+<br>
 
----
-
-[LinkedIn](https://linkedin.com/in/gustavo--alencar) · SP
+<div align="center"><sub>Building something with data? <a href="https://linkedin.com/in/gustavo--alencar">Say hi on LinkedIn</a>.</sub></div>
